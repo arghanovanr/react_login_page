@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react_login_page/static/css/main.8c57d302.css",
+    "main.js": "/react_login_page/static/js/main.a23d7712.js",
+    "static/js/787.dd9bb9de.chunk.js": "/react_login_page/static/js/787.dd9bb9de.chunk.js",
+    "static/media/ManIlustration.jpg": "/react_login_page/static/media/ManIlustration.2946f2e102396c88b69e.jpg",
+    "static/media/fa-solid-900.ttf": "/react_login_page/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/Product3.jpg": "/react_login_page/static/media/Product3.f8139262a673db2a2ebf.jpg",
+    "static/media/fa-brands-400.ttf": "/react_login_page/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/react_login_page/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/Product2.jpg": "/react_login_page/static/media/Product2.e9cb91f2de684e9bd507.jpg",
+    "static/media/fa-brands-400.woff2": "/react_login_page/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/Product1.jpg": "/react_login_page/static/media/Product1.ad49e8fe5a5b681f4cc0.jpg",
+    "static/media/User.png": "/react_login_page/static/media/User.03a0c31746680500c559.png",
+    "static/media/fa-regular-400.ttf": "/react_login_page/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/react_login_page/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/react_login_page/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react_login_page/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/react_login_page/index.html",
+    "main.8c57d302.css.map": "/react_login_page/static/css/main.8c57d302.css.map",
+    "main.a23d7712.js.map": "/react_login_page/static/js/main.a23d7712.js.map",
+    "787.dd9bb9de.chunk.js.map": "/react_login_page/static/js/787.dd9bb9de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c57d302.css",
+    "static/js/main.a23d7712.js"
+  ]
+}
